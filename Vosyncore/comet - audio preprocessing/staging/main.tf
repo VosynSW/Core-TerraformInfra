@@ -1,0 +1,1 @@
+# No GKE required for staging. to be discussed.
