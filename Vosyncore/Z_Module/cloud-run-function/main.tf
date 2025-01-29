@@ -1,1 +1,0 @@
-# Every pod has different main.py post function created. To be discussed.
